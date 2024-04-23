@@ -1,0 +1,3 @@
+
+
+inchesToCentimeters(['7'])
